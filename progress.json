@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:51:27.994Z",
+  "generated_at": "2026-10-16T12:18:59.351Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -26,6 +26,17 @@
       "last_pushed_at": "2026-10-13T17:51:27.101Z",
       "language": "python",
       "lines": 25
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-10-16T12:18:58.642Z",
+      "last_pushed_at": "2026-10-16T12:18:58.642Z"
     }
   }
 }
